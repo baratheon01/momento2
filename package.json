@@ -1,0 +1,31 @@
+{
+  "name": "momento2",
+  "version": "1.0.0",
+  "description": "momento2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baratheon01/momento2.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "mongo",
+    "mongodb",
+    "rest"
+  ],
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baratheon01/momento2/issues"
+  },
+  "homepage": "https://github.com/baratheon01/momento2#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.5"
+  }
+}
